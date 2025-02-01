@@ -8,6 +8,10 @@ requirements = []
 path = "contracts/sparktide-board.clar"
 depends_on = []
 
+[contracts.sparktide-core]
+path = "contracts/sparktide-core.clar"
+depends_on = []
+
 [contracts.sparktide-token]
 path = "contracts/sparktide-token.clar"
 depends_on = []
