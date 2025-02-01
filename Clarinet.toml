@@ -8,6 +8,10 @@ requirements = []
 path = "contracts/sparktide-board.clar"
 depends_on = []
 
+[contracts.sparktide-token]
+path = "contracts/sparktide-token.clar"
+depends_on = []
+
 [repl]
 costs_version = 2
 parser_version = 2
